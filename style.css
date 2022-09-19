@@ -1,0 +1,20 @@
+.pizzas{
+    background-color: aqua;
+    width: 400px;
+    height: 400px;
+    border:solid black ;
+    border-radius: 10px;
+   
+}
+.pizzas img{
+    width: 250px;
+    height: 250px;
+}
+body{
+ display: flex;   
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+ flex-direction: column;
+ gap: 50px;
+}
